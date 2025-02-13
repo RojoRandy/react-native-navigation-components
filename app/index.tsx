@@ -3,7 +3,7 @@ import { Redirect } from "expo-router";
 
 const App = () => {
 
-  return <Redirect href='/drawer'></Redirect>
+  return <Redirect href='/home'></Redirect>
   // return (
   //   <SafeAreaView>
   //     <View>
